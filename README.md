@@ -15,5 +15,3 @@ Python -m pytest -v --driver Chrome --driver-path C:/pythonProject/Finalpractice
 В тест-кейсы можно перейти по данной ссылке
 https://docs.google.com/spreadsheets/d/1z9zgBToHmySkJiwNR-Wojfa2q584pxfA/edit?usp=sharing&ouid=102303733352808758888&rtpof=true&sd=true
 
-Но на всякий случай приложу в репозитории.
-https://docs.google.com/spreadsheets/d/1z9zgBToHmySkJiwNR-Wojfa2q584pxfA/edit?usp=share_link&ouid=102303733352808758888&rtpof=true&sd=true
